@@ -1,7 +1,9 @@
 <h1 align="center">Welcome to DATA DASHBOARD APP</h1>
+<h2>link : kosaniletisim.42web.io</h2>
 
 <h3 align="left">USERNAME : admin</h3>
 <h3 align="left">PASSWORD : admin</h3>
+
 
 
 <h3 align="left"> VERİTABANI YAPISI </h3>
@@ -28,6 +30,13 @@ CREATE TABLE urunbilgi (
 );
 
 <h1>çalışmazsa config.php dosyasını bağlantı ayarlarını kendi ortamınıza göre ayarlayınız!!!</h1>
+
+<h1>KURULUM :</h1>
+<h5>Oluşturulan veritabanına sql uzantısı ekleyiniz.</h5>
+<h5>(Bu adım link açılmıyorsa geçerlidir) Proje dosyalarını htdocsa yükleyiniz ve gerekiyorsa config.php yi kendinize göre ayarlayınız.</h5> 
+<h5>Oluşturulan veritabanına sql uzantısı ekleyiniz.</h5>
+
+
 
 kodları yerleştirlir
 
