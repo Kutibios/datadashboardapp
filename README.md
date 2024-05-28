@@ -1,12 +1,14 @@
 <h1 align="center">Welcome to DATA DASHBOARD APP</h1>
 
+<h3 align="left">USERNAME : admin</h3>
+<h3 align="left">PASSWORD : admin</h3>
+
 ## link = kosaniletisim.42web.io <br/>
 Uygulamaya girmek için [buraya](kosaniletisim.42web.io) tıklayınız
 ## Uygulamalı anlatım videosu : https://www.youtube.com/watch?v=MwuzulwYjXE
 
 
-<h3 align="left">USERNAME : admin</h3>
-<h3 align="left">PASSWORD : admin</h3>
+
 
 
 
