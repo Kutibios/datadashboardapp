@@ -27,6 +27,8 @@ CREATE TABLE urunbilgi (
     notes TEXT
 );
 
+<h1>çalışmazsa config.php dosyasını bağlantı ayarlarını kendi ortamınıza göre ayarlayınız!!!</h1>
+
 kodları yerleştirlir
 
 
