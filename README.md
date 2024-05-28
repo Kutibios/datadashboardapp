@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to DATA DASHBOARD APP</h1>
 
-link : kosaniletisim.42web.io <br/>
+## link = kosaniletisim.42web.io <br/>
 Uygulamaya girmek için [buraya](kosaniletisim.42web.io) tıklayınız
 
 
