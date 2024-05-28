@@ -37,11 +37,14 @@ CREATE TABLE urunbilgi (
 <h1>KURULUM :</h1>
 <h5>Oluşturulan veritabanına sql uzantısı ekleyiniz.</h5>
 <h5>(Bu adım link açılmıyorsa geçerlidir) Proje dosyalarını htdocsa yükleyiniz ve gerekiyorsa config.php yi kendinize göre ayarlayınız.</h5> 
-<h5>Oluşturulan veritabanına sql uzantısı ekleyiniz.</h5>
+<h5>kosaniletisim.42web.io linkine giriniz.</h5>
+<h5>Kullanıcı adı : admin</h5>
+<h5>Şifre : admin</h5>
 
 
 
-kodları yerleştirlir
+
+
 
 
 <p align="left">
