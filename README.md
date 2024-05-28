@@ -2,6 +2,7 @@
 
 ## link = kosaniletisim.42web.io <br/>
 Uygulamaya girmek için [buraya](kosaniletisim.42web.io) tıklayınız
+## Uygulamalı anlatım videosu : https://www.youtube.com/watch?v=MwuzulwYjXE
 
 
 <h3 align="left">USERNAME : admin</h3>
